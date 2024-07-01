@@ -1,0 +1,13 @@
+.heading{
+    width:100%;
+    background-color: green;
+}
+.heading h3{
+    float:left;
+    font-size: 30px;
+}
+#instructions{
+    float:right;
+    border-color: white 3px;
+    margin-top:15px;
+}
